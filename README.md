@@ -8,7 +8,7 @@
   # Randi AI
   **Architecting the next generation of autonomous AI agent infrastructure.**
 
-  [Website](https://www.randi.chat/) • [Telegram](https://t.me/RandiAgent) • [GitHub](https://github.com/Randi-Agent/randi-agent)
+  [Website](https://www.randi.chat/) • [Telegram](https://t.me/RandiAgent) • [X (Twitter)](https://x.com/RandiAgent) • [GitHub](https://github.com/Randi-Agent/randi-agent)
 
 </div>
 
