@@ -8,7 +8,7 @@
   # Randi AI
   **Architecting the next generation of autonomous AI agent infrastructure.**
 
-  [Website](https://randi-agent.org) • [Telegram](https://t.me/RandiAgent) • [Documentation](https://docs.randi-agent.org) • [Twitter](https://twitter.com/randiai)
+  [Website](https://www.randi.chat/) • [Telegram](https://t.me/RandiAgent) • [GitHub](https://github.com/Randi-Agent/randi-agent)
 
 </div>
 
@@ -44,7 +44,7 @@ We are an community-first organization. Whether you are an AI researcher, a full
 
 - **Contribute**: Look for `good first issue` tags in our repositories.
 - **Discuss**: Join our [Telegram](https://t.me/RandiAgent) to brainstorm new features or report issues.
-- **Integrate**: Check out our documentation to start building on top of the Randi platform.
+- **Integrate**: Check out our [core repository](https://github.com/Randi-Agent/randi-agent) to start building on top of the Randi platform.
 
 ---
 
